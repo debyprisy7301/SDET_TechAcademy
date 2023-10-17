@@ -1,0 +1,12 @@
+git config --global user.email "debbiepriscilla07@gmail.com"
+git config --global user.name "debyprisy7301"
+git init
+git add .
+git commit -m "SDET Comprehensive Assignment"
+git branch TechAcademy
+git checkout TechAcademy
+git remote add origin https://github.com/debyprisy7301/SDET_TechAcademy.git
+
+git push -u origin TechAcademy
+
+GitHub Link: https://github.com/debyprisy7301/SDET_TechAcademy
